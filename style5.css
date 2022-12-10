@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background-color: black;
+}
+p{
+    color: greenyellow;
+    font-weight: 900;
+    font-size: 30px;
+    margin-left: 440px;
+    margin-top: 15px;
+}
+img{
+    width: 100px;
+    height: 100px;
+
+}
+span{
+    display: inline-block;  
+    color: white;
+    font-size: 20px;
+    margin: 80px;
+}

@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background-color: black;
+}
+h1{
+    background: #fff url(square.webp);
+    font-size: 20px;
+    line-height: 60px;
+    color: #ff7800;
+    display: inline-block;
+    text-align: center;
+    width: 155px;
+    height: 60px;
+}
+#jj{
+     
+    border: 1px solid #444;
+    display: block;
+    width: 155px;
+    color: rgba(0, 0, 0, 0.762);
+}
+a{
+    text-decoration: red;
+}
